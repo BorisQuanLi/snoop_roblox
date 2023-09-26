@@ -1,0 +1,5 @@
+venv
+.env
+# PyCharms-specific files
+.idea/*
+**/.DS_Store
